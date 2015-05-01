@@ -1,0 +1,11 @@
+{
+  "name": "Hello Node.JS Express",
+  "description": "The 'hello, world' for a Node.JS Express App",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "website": "http://www.jamesward.com",
+  "repository": "https://github.com/jamesward/hello-node_js-express.git",
+  "logo": "https://nodejs.org/images/logos/nodejs.png"
+}
