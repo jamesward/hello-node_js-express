@@ -2,9 +2,9 @@
   "name": "hellonode",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.12.3"
+    "express": "4.15.4"
   },
   "engines": {
-    "node": "0.12.2"
+    "node": "6.11.2"
   }
 }
