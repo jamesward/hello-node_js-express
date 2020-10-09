@@ -2,12 +2,12 @@
   "name": "hellonode",
   "version": "0.0.1",
   "dependencies": {
-    "express": "4.15.4"
+    "express": "4.17.1"
   },
   "scripts": {
     "start": "node web.js"
   },
   "engines": {
-    "node": "6.11.2"
+    "node": "14.13.1"
   }
 }
